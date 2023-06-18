@@ -2,26 +2,26 @@
 
 This project is capstone project executed at department of computer science, University of Seoul
 
-# 📚 목차
+## 📚 목차
 * [We are team Siriya](#-We-are-team-Siriya)
 * [사용 기술](#-사용-기술)
 * [Sira](#-Sira)
 * [Contect Us](#-Contect-Us)
 
-# 🤷‍♀️ We are team Siriya 🤷‍♂️
+## 🤷‍♀️ We are team Siriya 🤷‍♂️
 
-## 🏋🏽 Team Leader
+### 🏋🏽 Team Leader
 김건중
 
-## 🧌 Team FrontEnd 🧌
+### 🧌 Team FrontEnd 🧌
 김건중, 이서영, 이성진
 
-## 🦹 Team BackEnd 🦹‍♀️
+### 🦹 Team BackEnd 🦹‍♀️
 마디나버누, 김영석
 
-# 📚 사용 기술
+## 📚 사용 기술
 
-## 🥕 Frontend
+### 🥕 Frontend
 <div>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
@@ -39,6 +39,7 @@ This project is capstone project executed at department of computer science, Uni
 </div>
 
 # 🖥️ Sira
+
 
 
 # ☎ Contect Us 📧
