@@ -21,7 +21,7 @@ This project is capstone project executed at department of computer science, Uni
 김건중
 
 ### Team FrontEnd 
-이서영, 이성진
+김건중, 이서영, 이성진
 
 ### Team BackEnd 
 마디나버누, 김영석
