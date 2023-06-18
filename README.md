@@ -3,10 +3,10 @@
 This project is capstone project executed at department of computer science, University of Seoul
 
 ## 📚 목차
-* [We are team Siriya](#-We-are-team-Siriya)
+* [We are team Siriya](#-we-are-team-siriya )
 * [사용 기술](#-사용-기술)
-* [Sira](#-Sira)
-* [Contect Us](#-Contect-Us)
+* [Sira](#-sira )
+* [Contect Us](#-contect-us )
 
 ## 🤷‍♀️ We are team Siriya 🤷‍♂️
 
@@ -30,7 +30,7 @@ This project is capstone project executed at department of computer science, Uni
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## 📌 Backend
+### 📌 Backend
 <div>
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -38,12 +38,12 @@ This project is capstone project executed at department of computer science, Uni
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-# 🖥️ Sira
+## 🖥️ Sira
 
 
 
-# ☎ Contect Us 📧
+## ☎ Contect Us 📧
     ysyoung44@gmail.com
 
 
-# 💗Thank you!💗
+## 💗Thank you!💗
