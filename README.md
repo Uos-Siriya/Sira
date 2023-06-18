@@ -1,11 +1,15 @@
 # 👋 Welcome to Sira Software 👋
 
-This project is capstone project executed at department of computer science, University of Seoul
+<p>
+    This project is capstone project executed at department of computer science, University of Seoul
+</p>
+
+<img alt="Sira 대표 소개 이미지" src="https://raw.githubusercontent.com/Uos-Siriya/Sira/main/Sira.png">
 
 ## 📚 목차
 * [We are team Siriya](#-we-are-team-siriya-) 
 * [사용 기술](#-사용-기술) 
-* [Sira](#-sira-) 
+* [Sira](#sira-) 
 * [Contect Us](#-contect-us-) 
 
 ## 🤷‍♀️ We are team Siriya 🤷‍♂️
