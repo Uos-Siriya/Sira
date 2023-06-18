@@ -14,7 +14,7 @@
 * [We are team Siriya](#%EF%B8%8F-we-are-team-siriya-%EF%B8%8F)
 * [사용 기술](#-사용-기술)
 * [Sira 페이지](#%EF%B8%8F-sira-페이지)
-* [contact Us](#-contact-us-) 
+* [Contact Us](#-contact-us-) 
 
 ## 🤷‍♀️ We are team Siriya 🤷‍♂️
 
@@ -69,7 +69,7 @@
 ### 프로젝트 조회 페이지
 <img src="https://raw.githubusercontent.com/Uos-Siriya/Sira/main/%ED%8E%98%EC%9D%B4%EC%A7%80/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8C%E1%85%A9%E1%84%92%E1%85%AC.png">
 
-## ☎ contact Us 📧
+## ☎ Contact Us 📧
     ysyoung44@gmail.com
 
 
