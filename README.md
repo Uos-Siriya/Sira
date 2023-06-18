@@ -7,9 +7,9 @@
 <img alt="Sira 대표 소개 이미지" src="https://raw.githubusercontent.com/Uos-Siriya/Sira/main/Sira.png">
 
 ## 📚 목차
-* [We are team Siriya](#-we-are-team-siriya-) 
-* [사용 기술](#-사용-기술) 
-* [Sira](#sira-) 
+* [We are team Siriya](#%EF%B8%8F-we-are-team-siriya-%EF%B8%8F)
+* [사용 기술](#-사용-기술)
+* [Sira](#%EF%B8%8F-sira)
 * [Contect Us](#-contect-us-) 
 
 ## 🤷‍♀️ We are team Siriya 🤷‍♂️
@@ -43,8 +43,7 @@
 </div>
 
 ## 🖥️ Sira
-ㅇㄹㄴㅇㄴㄹㅇㄴㄹㄴㅇㅁㄻㅇㄴㄻㅇㄴㅇㄴ
-
+### 돌겟네
 
 ## ☎ Contect Us 📧
     ysyoung44@gmail.com
