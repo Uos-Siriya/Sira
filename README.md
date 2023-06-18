@@ -49,7 +49,7 @@
 ## 🖥️ Sira 페이지
 
 ### 개인 스페이스 페이지
-<img src=https://raw.githubusercontent.com/Uos-Siriya/Sira/main/%ED%8E%98%EC%9D%B4%EC%A7%80/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3.png">
+<img src="https://raw.githubusercontent.com/Uos-Siriya/Sira/main/%ED%8E%98%EC%9D%B4%EC%A7%80/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3.png">
 
 ### 팀 스페이스 - 로드맵 페이지
 <img src="https://raw.githubusercontent.com/Uos-Siriya/Sira/main/%ED%8E%98%EC%9D%B4%EC%A7%80/%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A2%E1%86%B8%20%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5.png">
