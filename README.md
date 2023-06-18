@@ -3,10 +3,10 @@
 This project is capstone project executed at department of computer science, University of Seoul
 
 # 📚 목차
-* [We are team Siriya](#-we-are-team-siriya)
+* [We are team Siriya](#-We-are-team-Siriya)
 * [사용 기술](#-사용-기술)
-* [Sira](#-sira)
-* [Contect Us](#-contect-us)
+* [Sira](#-Sira)
+* [Contect Us](#-Contect-Us)
 
 # 🤷‍♀️ We are team Siriya 🤷‍♂️
 
