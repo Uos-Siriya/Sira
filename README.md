@@ -22,17 +22,17 @@ This project is capstone project executed at department of computer science, Uni
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### Team Leader
+### 🏋🏽 Team Leader
 김건중
 
-### Team FrontEnd 
+### 🧌 Team FrontEnd 
 김건중, 이서영, 이성진
 
-### Team BackEnd 
+### 🦹 Team BackEnd 
 마디나버누, 김영석
 
-## Contect Us
+## ☎ Contect Us 📧
     ysyoung44@gmail.com
 
 
-## Thank you!
+## 💗Thank you!💗
