@@ -4,6 +4,7 @@ This project is capstone project executed at department of computer science, Uni
 
 # 📚 목차
 * [We are team Siriya](##-We-are-team-Siriya)
+* [Team Leader](##-Team-Leader)
 
 ## 🤷‍♀️ We are team Siriya 🤷‍♂️
 
