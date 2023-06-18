@@ -1,10 +1,23 @@
-# Welcome to Sira Software
+# 👋 Welcome to Sira Software 👋
 
 This project is capstone project executed at department of computer science, University of Seoul
 
-## We are team Siriya
+# 📚 목차
+* [We are team Siriya](##-We-are-team-Siriya)
+
+## 🤷‍♀️ We are team Siriya 🤷‍♂️
+
+### 🏋🏽 Team Leader
+김건중
+
+### 🧌 Team FrontEnd 🧌
+김건중, 이서영, 이성진
+
+### 🦹 Team BackEnd 🦹‍♀️
+마디나버누, 김영석
 
 ## 📚 사용 기술
+
 ### 🥕 Frontend
 <div>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -22,14 +35,8 @@ This project is capstone project executed at department of computer science, Uni
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### 🏋🏽 Team Leader
-김건중
+## 🖥️ Sira
 
-### 🧌 Team FrontEnd 
-김건중, 이서영, 이성진
-
-### 🦹 Team BackEnd 
-마디나버누, 김영석
 
 ## ☎ Contect Us 📧
     ysyoung44@gmail.com
