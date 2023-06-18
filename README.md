@@ -1,4 +1,8 @@
-# 👋 Welcome to Sira Software 👋
+<div align=center> 
+    <img src="https://raw.githubusercontent.com/Uos-Siriya/Sira/main/Sira1.png">
+</div>
+
+# 👋 Welcome to Sira Software👋
 
 <p>
     This project is capstone project executed at department of computer science, University of Seoul
@@ -9,7 +13,7 @@
 ## 📚 목차
 * [We are team Siriya](#%EF%B8%8F-we-are-team-siriya-%EF%B8%8F)
 * [사용 기술](#-사용-기술)
-* [Sira](#%EF%B8%8F-sira)
+* [Sira 페이지](#%EF%B8%8F-sira-페이지)
 * [Contect Us](#-contect-us-) 
 
 ## 🤷‍♀️ We are team Siriya 🤷‍♂️
@@ -42,8 +46,7 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-## 🖥️ Sira
-### 돌겟네
+## 🖥️ Sira 페이지
 
 ## ☎ Contect Us 📧
     ysyoung44@gmail.com
