@@ -4,7 +4,6 @@ This project is capstone project executed at department of computer science, Uni
 
 ## 📚 목차
 * [We are team Siriya](#-we-are-team-siriya-)
-* [We are team Siriya](#-we-are-team-siriya-)
 * [사용 기술](#-사용-기술)
 * [Sira](#-sira)
 * [Contect Us](#-contect-us-)
@@ -40,7 +39,7 @@ This project is capstone project executed at department of computer science, Uni
 </div>
 
 ## 🖥️ Sira
-
+ㅇㄹㄴㅇㄴㄹㅇㄴㄹㄴㅇㅁㄻㅇㄴㄻㅇㄴㅇㄴ
 
 
 ## ☎ Contect Us 📧
